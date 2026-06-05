@@ -1,0 +1,18 @@
+
+name: ContextPerks
+version: 1.0
+main: me.RTM.contextperks.ContextPerksPlugin
+api-version: '1.21'
+depend: [LuckPerms]
+commands:
+  sethome:
+    usage: /sethome <name>
+
+  home:
+    usage: /home <name>
+
+  perks:
+    usage: /perks
+
+  homes:
+      description: Opens your homes GUI
