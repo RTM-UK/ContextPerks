@@ -1,0 +1,8 @@
+# ContextPerks configuration
+
+messages:
+  home-set: "Home set!"
+  no-home: "You have not set a home."
+
+settings:
+  default-homes: 1
